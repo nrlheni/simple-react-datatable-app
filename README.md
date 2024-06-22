@@ -17,7 +17,7 @@ JavaScript/ES6+  | Implements modern JavaScript features for enhanced performanc
 TailwindCSS      | Applies styling to ensure a visually appealing and intuitive user interface.
 
 ## Usage:
-Developers can easily integrate this repository into their projects to leverage its datatable functionalities. Whether for managing customer data, product listings, or any tabular information, this Simple React DataTable provides a robust foundation for building interactive data-driven applications.
+Developers can easily integrate this repository into their projects to leverage its datatable functionalities. Whether for managing customer data, product listings, or any tabular information, this Simple React DataTable provides a robust foundation for building interactive data-driven applications. It's designed to be beginner-friendly, making it an ideal learning tool for newcomers to React looking to understand data management and user interface development.
 
 Get Started:
 Explore the repository, clone it locally, and follow the setup instructions in the README to integrate this datatable component seamlessly into your React projects.
