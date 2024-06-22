@@ -10,9 +10,11 @@ This repository hosts a straightforward yet powerful React application featuring
 - Sortable Columns: Enables sorting of table columns in ascending or descending order, empowering users to organize data based on their preferences.
 
 ## Technologies Used:
-React | Utilizes React.js for building a dynamic and responsive user interface.
-JavaScript/ES6+ | Implements modern JavaScript features for enhanced performance and maintainability.
-TailwindCSS | Applies styling to ensure a visually appealing and intuitive user interface.
+Name             | Description
+-------------    | -------------
+React            | Utilizes React.js for building a dynamic and responsive user interface.
+JavaScript/ES6+  | Implements modern JavaScript features for enhanced performance and maintainability.
+TailwindCSS      | Applies styling to ensure a visually appealing and intuitive user interface.
 
 ## Usage:
 Developers can easily integrate this repository into their projects to leverage its datatable functionalities. Whether for managing customer data, product listings, or any tabular information, this Simple React DataTable provides a robust foundation for building interactive data-driven applications.
